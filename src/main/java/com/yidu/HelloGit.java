@@ -6,8 +6,7 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		
 		
-		//在hostfix下修复Bug
-		System.out.println("在hostfix下修复Bug");
+		//--------修复bug后继续开发----------------
+		System.out.println("1111111111");
 	}
-	
 }
